@@ -1,0 +1,6 @@
+{
+    "NAME": "CSV Uploader",
+    "MONGO_URL": "mongodb://localhost:27017/wis",
+    "MONGO_USER": "",
+    "MONGO_PASSWORD": ""
+}
